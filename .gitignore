@@ -1,0 +1,7 @@
+*.apk
+*.zip
+*.so
+*.dex
+*.rep
+*.gpr
+*.lock
