@@ -26,22 +26,22 @@ L'application affiche une interface simple avec un champ de texte et un bouton "
 ## Captures d'écran
 
 ### 1. Interface de l'application (message d'erreur)
-![Message d'erreur](screenshots/erreurmessage.png)
+<img width="200" height="383" alt="erreurmessage" src="https://github.com/user-attachments/assets/4fa94e66-2f39-4f91-8faf-c58c4ffbd894" />
 
 ### 2. CodeCheck dans JADX
-![CodeCheck](screenshots/codeCheck.png)
+<img width="533" height="227" alt="codeCheck" src="https://github.com/user-attachments/assets/a469ca17-c271-4c86-99de-eff72f15430f" />
 
 ### 3. Méthode native bar() dans JADX
-![Méthode native bar](screenshots/codeCheckbarjava.png)
+<img width="902" height="206" alt="codeCheckbarjava" src="https://github.com/user-attachments/assets/275dcc95-3aa3-4e74-9373-2f9b09664cf2" />
 
 ### 4. Fonction native dans Ghidra
-![Fonction JNI](screenshots/libfoo.png)
+<img width="670" height="472" alt="libfoo" src="https://github.com/user-attachments/assets/f0185138-1115-4625-a3f7-33c2af073146" />
 
 ### 5. Code de vérification
-![Code de vérification](screenshots/verifycode.png)
+<img width="617" height="218" alt="verifycode" src="https://github.com/user-attachments/assets/187556e5-8e3d-45d6-add8-f224b4898254" />
 
 ### 6. Secret trouvé
-![Secret : Thanks for all the fish](screenshots/correctsecret.png)
+<img width="186" height="371" alt="correctsecret" src="https://github.com/user-attachments/assets/99a3da5f-11f3-41e8-8491-83eb6c13a739" />
 
 ### Décompilation avec JADX
 
